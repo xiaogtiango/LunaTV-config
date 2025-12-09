@@ -140,6 +140,11 @@
       "name": "🎬百度云zy",
       "api": "https://pz.168188.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod",
       "detail": "https://bdzy1.com"
+    },
+    "lovedan.net": {
+      "name": "🎬艾旦影视",
+      "api": "https://lovedan.net/api.php/provide/vod",
+      "detail": "https://lovedan.net"
     }
   }
 }
