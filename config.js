@@ -28,7 +28,7 @@ const API_SITES = {
         detail: 'https://iqiyizyapi.com',
     },
     dbzy: {
-      name: 🎬豆瓣资源,
+      name: '🎬豆瓣资源',
       api: 'https://caiji.dbzy5.com/api.php/provide/vod',
       detail: 'https://dbzy.tv',
     },
