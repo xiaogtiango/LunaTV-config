@@ -1,4 +1,4 @@
-# MoonTV/LunaTV 配置编辑器（自用）
+# MoonTV/LunaTV 配置编辑器
 https://hafrey1.github.io/LunaTV-config  
 
 --- 
@@ -436,6 +436,7 @@ console.log(`Request from: ${request.headers.get('cf-connecting-ip')}`)
 
 ## ⭐ Star History
 [![Star History](https://starchart.cc/hafrey1/LunaTV-config.svg?variant=light)](https://starchart.cc/hafrey1/LunaTV-config)
+
 
 
 
