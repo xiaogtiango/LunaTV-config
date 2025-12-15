@@ -433,6 +433,8 @@ console.log(`Request from: ${request.headers.get('cf-connecting-ip')}`)
 | 🚨 | 🔞souavZY | [Link](https://api.souavzy.vip) | [Link](https://api.souavzy.vip/api.php/provide/vod) | ❌ | 27 | 3 | 90.0% | ✅✅✅✅❌❌❌ |
 <!-- API_TABLE_END -->
 
+---
+
 # 免责声明
 
 ## 一、定义说明
@@ -479,13 +481,16 @@ console.log(`Request from: ${request.headers.get('cf-connecting-ip')}`)
 1. 本仓库管理员保留随时对本免责声明进行补充、修改或更新的权利，恕不另行通知。
 2. 任何个人或组织一旦以任何形式阅读、使用、复制、修改或传播本仓库内容，即视为已充分阅读并**完全接受**本免责声明的全部条款。
 
----
 
 **请在使用前仔细阅读本免责声明。**
+
+---
+
 
 
 ## ⭐ Star History
 [![Star History](https://starchart.cc/hafrey1/LunaTV-config.svg?variant=light)](https://starchart.cc/hafrey1/LunaTV-config)
+
 
 
 
